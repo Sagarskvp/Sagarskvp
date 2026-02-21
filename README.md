@@ -17,13 +17,15 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/sagar-k-50525629a/" target="blank">
+<a href="https://www.linkedin.com/in/sagar-k-50525629a/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/sagar.rockzz_007" target="blank">
+
+<a href="https://instagram.com/sagar.rockzz_007" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/@sagarskvp" target="blank">
+
+<a href="https://www.youtube.com/@sagarskvp" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="30" width="40" />
 </a>
 </p>
